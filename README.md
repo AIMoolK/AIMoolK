@@ -16,21 +16,21 @@
 <br>
 ▶️ Silver Master : ❌
 <br>
-▶️ Silver Elite Master : ❌
+▶️ Silver Elite Master : ✔️
 <br>
-▶️ Gold Nova 1 : ❌
+▶️ Gold Nova 1 : ✔️
 <br>
-▶️ Gold Nova 2 : ❌
+▶️ Gold Nova 2 : ✔️
 <br>
-▶️ Gold Nova 3 : ❌
+▶️ Gold Nova 3 : ✔️
 <br>
-▶️ Gold Nova Master : ❌
+▶️ Gold Nova Master : ✔️
 <br>
-▶️ Master Guardian 1 : ❌
+▶️ Master Guardian 1 : ✔️
 <br>
-▶️ Master Guardian 2 : ❌
+▶️ Master Guardian 2 : ✔️
 <br>
-▶️ Master Guardian Elite : ❌
+▶️ Master Guardian Elite : ✔️
 <br>
 ▶️ Distinguished Master Guardian : ✔️
 <br>

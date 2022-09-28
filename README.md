@@ -82,6 +82,8 @@
 ▶️ The Global Elite : ✔️
 <br>
 
+ESEA: D-
+FACEIT: Lvl 7 elo: 1650
 
 The level of your qualities.
 <br>

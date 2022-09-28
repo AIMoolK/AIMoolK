@@ -83,7 +83,9 @@
 <br>
 
 ESEA: D-
+<br>
 FACEIT: Lvl 7 elo: 1650
+<br>
 
 The level of your qualities.
 <br>
